@@ -5,7 +5,7 @@
 📍 Coimbatore<br/>
 📧 Email: santhoshkumark8113@gmail.com<br/>
 🔗 LinkedIn: [Santhosh Kumar K](https://www.linkedin.com/in/santhoshkumar08/)  
-👨‍💻 GitHub: [Santhosh Kumar K](https://github.com/Caeruleaphile08) <br/>
+👨‍💻 GitHub: [Santhosh Kumar K](https://github.com/Santhos041) <br/>
 
 ### About Me 🌐  <br/>
 Passionate Data Science innovator blending Python, Machine Learning, and Visualization to uncover insights and drive impactful solutions in data analysis.
